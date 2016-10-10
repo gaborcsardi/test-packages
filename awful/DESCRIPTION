@@ -1,0 +1,9 @@
+Package: awful
+Type: Package
+Title: Definitely not in title case
+Version: 1.0
+Date: 2010-10-10
+Author: Gabor Csardi
+Maintainer: Gabor Csardi <csardi.gabor@gmail.com>
+Description: This package is awful.
+License: MIT
